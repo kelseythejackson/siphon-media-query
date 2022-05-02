@@ -25,7 +25,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "css-parse": "^2.0.0",
+    "css-parse": "github:kelseythejackson/css-parse",
     "css-stringify": "^2.0.0"
   }
 }
